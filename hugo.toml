@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'zh-cn'
-title = 'Gallery'
+title = '🌱Gallery'
 theme = ["gallery"]
 copyright = "©BigBigMeng"
 defaultContentLanguage = "zh-cn"
