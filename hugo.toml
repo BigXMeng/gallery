@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://gallery.bigbigmeng.online'
 languageCode = 'zh-cn'
 title = '🌱Gallery'
 theme = ["gallery"]
@@ -39,8 +39,12 @@ timeout = "120s"
 
 [menu]
   [[menu.footer]]
-    name = "BACK2BLOG"
+    name = "BLOG"
     url = "https://blog.bigbigmeng.online"
+    weight = 3
+  [[menu.footer]]
+    name = "SYNC"
+    url = "https://sync.bigbigmeng.online"
     weight = 3
 
 [services]

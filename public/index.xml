@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>🌱 BigBigMeng&#39;s Gallery on Gallery</title>
-    <link>https://example.org/</link>
-    <description>Recent content in 🌱 BigBigMeng&#39;s Gallery on Gallery</description>
+    <title>BigBigMeng&#39;s Gallery on 🌱Gallery</title>
+    <link>https://gallery.bigbigmeng.online/</link>
+    <description>Recent content in BigBigMeng&#39;s Gallery on 🌱Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>user@example.com (Your Name)</managingEditor>
     <webMaster>user@example.com (Your Name)</webMaster>
-    <copyright>©BigBigMeng</copyright><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>©BigBigMeng</copyright><atom:link href="https://gallery.bigbigmeng.online/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fashion &amp; Beauty</title>
-      <link>https://example.org/fashion-beauty/</link>
+      <link>https://gallery.bigbigmeng.online/fashion-beauty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
-      <guid>https://example.org/fashion-beauty/</guid><media:content url="https://example.org/fashion-beauty/jin_dark-green-suit_hua8f46efa985eabcf294314cdb88bc1ce_458377_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+      <guid>https://gallery.bigbigmeng.online/fashion-beauty/</guid><media:content url="https://gallery.bigbigmeng.online/fashion-beauty/jin_dark-green-suit_hua8f46efa985eabcf294314cdb88bc1ce_458377_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://example.org/fashion-beauty/jin_dark-green-suit_hua8f46efa985eabcf294314cdb88bc1ce_458377_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;img src=&quot;https://gallery.bigbigmeng.online/fashion-beauty/jin_dark-green-suit_hua8f46efa985eabcf294314cdb88bc1ce_458377_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
           &lt;p&gt;Fashion and Beauty are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.&lt;/p&gt;
         </description></item>
     <item>
       <title>Grace</title>
-      <link>https://example.org/grace/</link>
+      <link>https://gallery.bigbigmeng.online/grace/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
-      <guid>https://example.org/grace/</guid><media:content url="https://example.org/grace/bigbigmeng_hu8f0c0bb8b0deb67f533f18c43dcd3723_121676_900x600_fill_catmullrom_smart1_3.png" type="image/jpeg"/>
+      <guid>https://gallery.bigbigmeng.online/grace/</guid><media:content url="https://gallery.bigbigmeng.online/grace/bigbigmeng_hu8f0c0bb8b0deb67f533f18c43dcd3723_121676_900x600_fill_catmullrom_smart1_3.png" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://example.org/grace/bigbigmeng_hu8f0c0bb8b0deb67f533f18c43dcd3723_121676_900x600_fill_catmullrom_smart1_3.png&quot; /&gt;
+          &lt;img src=&quot;https://gallery.bigbigmeng.online/grace/bigbigmeng_hu8f0c0bb8b0deb67f533f18c43dcd3723_121676_900x600_fill_catmullrom_smart1_3.png&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
   </channel>
