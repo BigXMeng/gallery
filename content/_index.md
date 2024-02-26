@@ -1,5 +1,5 @@
 ---
-description: 这里 捕捉生活中的美好瞬间 美好的瞬间总是值得记录和回味
+description: The beautiful moments in life are always worth recording and savoring.
 #lastmod: 2023-07-05
 title: Moment Gallery
 featured_image: jin_dark-green-suit.jpg # default: first image in this directory

@@ -26,7 +26,7 @@
       <guid>https://gallery.bigbigmeng.online/badminton/</guid><media:content url="https://gallery.bigbigmeng.online/badminton/82e357e1f516a5dad736a0c1ab9b654_hu1e014bd855d959eac6c1fafe8996ed86_139040_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;https://gallery.bigbigmeng.online/badminton/82e357e1f516a5dad736a0c1ab9b654_hu1e014bd855d959eac6c1fafe8996ed86_139040_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
-          &lt;p&gt;&lt;/p&gt;
+          &lt;p&gt;Badminton and I, began in 2014.&lt;/p&gt;
         </description></item>
     <item>
       <title>Little</title>
@@ -53,7 +53,16 @@
       <guid>https://gallery.bigbigmeng.online/happiness/</guid><media:content url="https://gallery.bigbigmeng.online/happiness/20240219030341_hu688a89b004c5c798eb80d04902787853_3841001_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;https://gallery.bigbigmeng.online/happiness/20240219030341_hu688a89b004c5c798eb80d04902787853_3841001_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+          &lt;p&gt;这里，记录了生活中的小幸运。每张照片都是小幸运的见证，记录着快乐、温馨和感动。这个相册是对生活中美好瞬间的珍贵回忆，也是对幸福生活的美好展示。&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>上海之旅 2023-2024</title>
+      <link>https://gallery.bigbigmeng.online/%E4%B8%8A%E6%B5%B7%E4%B9%8B%E6%97%85_2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <guid>https://gallery.bigbigmeng.online/%E4%B8%8A%E6%B5%B7%E4%B9%8B%E6%97%85_2023/</guid><media:content url="https://gallery.bigbigmeng.online/%E4%B8%8A%E6%B5%B7%E4%B9%8B%E6%97%85_2023/fcf3c27eba4772c51282a9391f1b55a_hu620e37ff05b047088d489762e485c36c_326120_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://gallery.bigbigmeng.online/%E4%B8%8A%E6%B5%B7%E4%B9%8B%E6%97%85_2023/fcf3c27eba4772c51282a9391f1b55a_hu620e37ff05b047088d489762e485c36c_326120_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;上海之旅 2023-2024&lt;/p&gt;
         </description></item>
   </channel>
 </rss>
